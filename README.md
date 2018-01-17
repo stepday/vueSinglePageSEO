@@ -1,0 +1,2 @@
+# vueSinglePageSEO
+采用Vue的Server Side Rendering 解决vue单页面SEO的问题，借助服务端渲染来达到SEO信息的动态写入
